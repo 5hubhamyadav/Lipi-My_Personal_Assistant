@@ -1,0 +1,352 @@
+what things can you do?,abilities
+what can you do for me?,abilities
+what is your ability,abilities
+why are you here?,abilities
+what are you designed for?,abilities
+How do you function?,abilities
+what are your functions?,abilities
+What else can you help me with?,abilities
+What do you handle?,abilities
+What do you do?,abilities
+What can I ask you to do?,abilities
+What are your skills?,abilities
+What are you used for?,abilities
+What are you good at?,abilities
+What are you capable of?,abilities
+What are you able to understand?,abilities
+What are you able to deal with?,abilities
+What can you do?,abilities
+what are your abilities?,abilities
+can you do this,abilities
+Do you know who you are?,About_Chat_Bot
+Describe your self,About_Chat_Bot
+Tell me about yourself,About_Chat_Bot
+About you,About_Chat_Bot
+who designed you?,About_Chat_Bot
+tell me about yourselves,About_Chat_Bot
+are you female,About_Chat_Bot
+are you male or female,About_Chat_Bot
+are you male,About_Chat_Bot
+what is your gender,About_Chat_Bot
+are you female or male,About_Chat_Bot
+are you man or woman,About_Chat_Bot
+are you woman or man,About_Chat_Bot
+are you man,About_Chat_Bot
+are you woman,About_Chat_Bot
+are you a girl,About_Chat_Bot
+are you a boy,About_Chat_Bot
+are you a boy or girl,About_Chat_Bot
+are you girl or boy,About_Chat_Bot
+what gender are you?,About_Chat_Bot
+who developed you?,About_Chat_Bot
+who progammed you?,About_Chat_Bot
+who made you?,About_Chat_Bot
+who is your creator?,About_Chat_Bot
+who created you?,About_Chat_Bot
+who coded you?,About_Chat_Bot
+where are you?,About_Chat_Bot
+what is your name?,About_Chat_Bot
+where do you live?,About_Chat_Bot
+What should I know about you?,About_Chat_Bot
+Tell me about your life,About_Chat_Bot
+What's your name?,About_Chat_Bot
+Tell me something about yourself,About_Chat_Bot
+Let us talk about you,About_Chat_Bot
+Introduce your self,About_Chat_Bot
+Who are you?,About_Chat_Bot
+Do you have a name?,About_Chat_Bot
+15,age
+40,age
+6,age
+80,age
+i am hungry,command_questions
+I am Starving,command_questions
+i am feeling peckish,command_questions
+i am very hungry,command_questions
+shop from snapdeal,company_names
+shop from jabong,company_names
+jabong,company_names
+myntra,company_names
+order from myntra,company_names
+shop from myntra,company_names
+e-shopping,company_names
+Swiggy,company_names
+Order from Amazon,company_names
+Amazon,company_names
+Shop from Amazon,company_names
+Order from Flipkart,company_names
+Uber Eats,company_names
+Flipkart,company_names
+Shop from Flipkart,company_names
+Zomato,company_names
+Order food from Swiggy,company_names
+Food Panda,company_names
+Order food from Food Panda,company_names
+Order food from Zomato,company_names
+Order food from Uber Eats,company_names
+snapdeal,company_names
+order from snapdeal,company_names
+order from jabong,company_names
+whats todays date?,date_enquiry
+can you tell me the date?,date_enquiry
+tell todays date?,date_enquiry
+please tell me date?,date_enquiry
+todays date,date_enquiry
+how much time will you take to deliver the medicines?,delivery_info
+Do you deliver?,delivery_info
+what about delivery?,delivery_info
+do you devlier?,delivery_info
+How long will the medicines take to arrive?,delivery_info
+What is the delivery time?,delivery_info
+How long does it take to deliver this medicines?,delivery_info
+Do you deliver on weekends?,delivery_info
+when will i receive my medicines?,delivery_info
+what is he delivery fees?,delivery_info
+you charge for the delivery?,delivery_info
+how much do you charge for the delivery?,delivery_info
+what are your delivery timings?,delivery_info
+is the delivery free?,delivery_info
+delivery information?,delivery_info
+Doctors nearby,doctor_recommendation
+Orthopedic doctors in Paldi,doctor_recommendation
+physicians around paldi,doctor_recommendation
+doctors around paldi,doctor_recommendation
+Doctors near Paldi,doctor_recommendation
+physicians in ahmedabad,doctor_recommendation
+Paediatricians in Ahmedabad,doctor_recommendation
+Physicians in Paldi,doctor_recommendation
+Paediatricians in Paldi,doctor_recommendation
+Orthopaedic hospital in Paldi,doctor_recommendation
+Orthopaedic hospital in Ahmedabad,doctor_recommendation
+Clinics near Paldi,doctor_recommendation
+Orthopaedic hospital near Paldi,doctor_recommendation
+Physicians near Paldi,doctor_recommendation
+Paediatricians near Paldi,doctor_recommendation
+Clinics in Paldi,doctor_recommendation
+Doctors in Paldi,doctor_recommendation
+doctors in ahmedabad,doctor_recommendation
+clinics in ahmedabad,doctor_recommendation
+Physicians nearby,doctor_recommendation
+Paediatric hospital near Paldi,doctor_recommendation
+Paediatric hospital in Paldi,doctor_recommendation
+Orthopedic doctors near Paldi,doctor_recommendation
+take me to E learning sites,E-learning_Sites
+Elearning sites,E-learning_Sites
+E learning sites,E-learning_Sites
+"Yup, take me to some e-learning sites",E-learning_Sites
+Take me to E-Learning Sites,E-learning_Sites
+take me to some e-learning sites,E-learning_Sites
+E-Learning,E-learning_Sites
+Elearning,E-learning_Sites
+take me to Elearning sites,E-learning_Sites
+do a toss,fun_questions
+coin toss,fun_questions
+heads or tails,fun_questions
+tails or heads,fun_questions
+i love you,fun_questions
+i love you so much,fun_questions
+i love you a lot,fun_questions
+you are my best friend,fun_questions
+you are the apple of my eye,fun_questions
+I love you from the bottom of my heart.,fun_questions
+You are my baby,fun_questions
+dont make fun of me,fun_questions
+don't make fun of me,fun_questions
+tell me a joke,fun_questions
+flip a coin,fun_questions
+say a joke,fun_questions
+joke,fun_questions
+do a coin toss,fun_questions
+flip coin,fun_questions
+female,gender
+man,gender
+Male,gender
+women,gender
+peace out,goodbye
+have a good day,goodbye
+take care,goodbye
+it was nice talking to you,goodbye
+nice to talk to you,goodbye
+Catch you later,goodbye
+see you,goodbye
+i am leaving,goodbye
+farewell,goodbye
+quit,goodbye
+Have a nice day,goodbye
+later,goodbye
+exit,goodbye
+we are done,goodbye
+bye,goodbye
+goodbye,goodbye
+see you later aligator,goodbye
+stop by now,goodbye
+See you soon,goodbye
+Talk to you later,goodbye
+ttyl,goodbye
+have a good night,goodbye
+G’day,greetings
+GM,greetings
+Good Afternoon,greetings
+Good Morning,greetings
+Hi,greetings
+Hello,greetings
+How are you?,greetings
+Yo!,greetings
+Nice to see you,greetings
+Hey,greetings
+Whats up?,greetings
+How are you doing?,greetings
+GN,greetings
+Good Night,greetings
+hmmm,greetings
+Good to see you,greetings
+How’s everything ?,greetings
+How’s life?,greetings
+hmmmm,greetings
+How’s it going?,greetings
+hmm,greetings
+introduce me to your master,master
+introduce your master,master
+what is the name of your master?,master
+describe your master,master
+who is your master?,master
+tell me about your master,master
+i have body ache,medicine_suggestions
+what should i do for a sprain?,medicine_suggestions
+i am sick,medicine_suggestions
+i am ill,medicine_suggestions
+i m not feeling well,medicine_suggestions
+i'm not feeling well,medicine_suggestions
+Which medicines should i take?,medicine_suggestions
+should it be liquid or tablet form?,medicine_suggestions
+Which medicines should i take for running nose?,medicine_suggestions
+Which medicines should i take for stuffy nose?,medicine_suggestions
+Which medicines should i take for cold?,medicine_suggestions
+Which medicines should i take for cough?,medicine_suggestions
+Which medicines should i take for sneezing?,medicine_suggestions
+Which medicines should i take for fever?,medicine_suggestions
+Which medicines should i take for body ache?,medicine_suggestions
+I am suffering from fever,medicine_suggestions
+I am suffering from cold,medicine_suggestions
+I have a running nose,medicine_suggestions
+I am suffering from stomach pain?,medicine_suggestions
+I have stomach ache,medicine_suggestions
+I have weakness,medicine_suggestions
+I am not feeling well,medicine_suggestions
+I have headache,medicine_suggestions
+I am sneezing continuously,medicine_suggestions
+I have acidity,medicine_suggestions
+which medicines should I take for acidity?,medicine_suggestions
+I have difficulty in breathing,medicine_suggestions
+I have abdominal pain,medicine_suggestions
+I have a severe headache,medicine_suggestions
+I have bleeding nose?,medicine_suggestions
+I feel like vomiting,medicine_suggestions
+I have indigestion problem,medicine_suggestions
+I have a burning sensation in my stomach,medicine_suggestions
+My eyes are paining,medicine_suggestions
+My body is paining,medicine_suggestions
+I have a body ache,medicine_suggestions
+I am feeling drowsy,medicine_suggestions
+i fainted,medicine_suggestions
+i feel like fainting,medicine_suggestions
+I have stuffy nose,medicine_suggestions
+I have running nose,medicine_suggestions
+I have fever,medicine_suggestions
+i have cold,medicine_suggestions
+i have dysentery,medicine_suggestions
+which medicine should i take for dysentery?,medicine_suggestions
+i have cough,medicine_suggestions
+which medicine should i take for acidity,medicine_suggestions
+i have a sprain,medicine_suggestions
+i got a burn,medicine_suggestions
+i got a cut,medicine_suggestions
+what should i apply on a cut,medicine_suggestions
+what should i apply on a burn?,medicine_suggestions
+what medicines should i take for sprain?,medicine_suggestions
+i am very bored,mood
+i am getting bored,mood
+i am getting bored now,mood
+i am happy,mood
+i am very happy,mood
+i am feeling romantic,mood
+i am very happy today,mood
+i am sad,mood
+i am very sad,mood
+i am angry,mood
+i am feeling happy,mood
+i am feeling sad,mood
+i am bored,mood
+i am feeling bored,mood
+book movie ticket,movie_tickets
+i want to watch movie,movie_tickets
+want to watch movie,movie_tickets
+want to book movie tickets,movie_tickets
+want to see movie shows,movie_tickets
+which movies are going on,movie_tickets
+want to go to a movie,movie_tickets
+want to go to the cinema,movie_tickets
+i want to order food,ordering
+order food,ordering
+i want to order meal,ordering
+i want to order dinner,ordering
+i want to order lunch,ordering
+i want to order something to eat,ordering
+what do you eat?,questions
+What does your Lipi means?,questions
+Meaning of lipi?,questions
+what does your name means?,questions
+what are you wearing?,questions
+you wear cloths?,questions
+what cloths do you wear?,questions
+do you eat?,questions
+what food do you eat?,questions
+do you drink?,questions
+do you like to drink?,questions
+what do you drink?,questions
+do you like to drink,questions
+do you smoke,questions
+do you like to smoke?,questions
+"Yes, Suggest me something!",response_type
+"No, I'm okay!",response_type
+Uncertain,response_type
+Yes,response_type
+No,response_type
+Negative,response_type
+Positive,response_type
+,seeyoulateraligator
+i want to buy,shopping
+i want to shop somethings,shopping
+i want to get somethings,shopping
+i want to purchase somethings,shopping
+i want to purchase some thing,shopping
+i want to buy some things,shopping
+i want to go for shopping,shopping
+tq,thank_you
+much obliged,thank_you
+That’s very kind of you,thank_you
+thank you,thank_you
+cheers !,thank_you
+right,thank_you
+see you,thank_you
+thank you very much,thank_you
+ok,thank_you
+okay,thank_you
+Thank you for your prompt reply,thank_you
+Thanks for explaining this to me.,thank_you
+Thank you for your guidance,thank_you
+Thanks for having my back,thank_you
+thank you for your help,thank_you
+You made my day.,thank_you
+thanks for the support,thank_you
+i owe you,thank_you
+What is the time?,time_enquiry
+whats the time now?,time_enquiry
+can you tell me the time,time_enquiry
+please tell me the time,time_enquiry
+time now?,time_enquiry
+take me to my favourite youtube channels,youtube_channels
+take me to my favourite channels,youtube_channels
+i want to see some youtube videos,youtube_channels
+take me to youtube channel,youtube_channels
+take me to subscribed youtube channels,youtube_channels
