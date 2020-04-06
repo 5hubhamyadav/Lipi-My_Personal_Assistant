@@ -1,0 +1,105 @@
+about_chatbot,live,stay,reside
+about_chatbot,create,created,inventor,coder,made,programmer,designer,developer
+about_chatbot,name,names,designation,nickname,call you,yourselves,yourself,who are you
+age,aged
+age,adult
+age,infant
+age,teenager
+command_questions,hungry,starving,ravenous,thirsty,hunger,starvation,peckish,starve,rapacious
+condition,infected
+condition,diseased
+condition,sick
+condition,patient
+condition,unwell
+condition,ill
+condition,not feeling well
+condition,dying
+disorder,cough,asthmatic,asthma,laryngitis,sniffles,wheezing,bronchitis,coughing
+disorder,cold,colder,freezing,chilly
+disorder,fever,plague,fevers,flu
+disorder,head ache,sleeplessness,pain,insomnia,dizziness,nausea,migraine,headaches
+disorder,body ache,body pain,pain
+disorder,dysentery,loose motion,cholera,diarrhea,dysentry,diarrhoea
+disorder,cut,bleed,bruise,torn,rip,tear,cut
+disorder,burn,fire,burnt,burning
+disorder,acidity,creaminess,mouthfeel,acidic
+disorder,sprain,wrists,neck,crash,bicep,ankles,calf,foot,shoulders,leg,toe,collisions,thigh,forearm,shoulder,tendons,elbow,sprains,knee,ankle,wounded,damage,hurt,accidents,injured,injuries,twist,tendonitis,hamstring,ligament,injury,tendinitis
+doctor_recommendation,paediatrician,pediatrician,paediatricians
+doctor_recommendation,clinics,clinic
+doctor_recommendation,physician,physicians
+doctor_recommendation,dispensaries,dispensary
+doctor_recommendation,hospital,icu,hospitals
+doctor_recommendation,orthopedic,orthopedics,orthopaedic
+e-learning_sites,Udacity
+e-learning_sites,Coursera
+e-learning_sites,Edx
+e-learning_sites,Udemy
+e-learning_sites,Skillshare
+food_companies,swiggy
+food_companies,uber eats
+food_companies,zomato
+food_companies,food panda
+fun_questions,flip a coin,toss a coin,coin toss,toss coin,do heads or tails,do tails or heads,heads or tails,tails or heads
+fun_questions,i love you,i love you so much,i love you a lot,you are the apple of my eye,you are my princess,i adore you,i think i am in love with you,i think i m in love with you
+fun_questions,make me smile,make me laugh
+fun_questions,tell me a joke,tell joke,joke
+fun_questions,dont make fun of me,don't make fun of me,don't make fun of me lipi,dont make fun of me lipi
+gender,male,granddaddy,papa,stepdad,grandsons,stepfather,hubby,grandpa,stepson,grandfather,boyfriend,uncle,grandson,nephew,daddy,husband,father,sons,son,dad,bro,dude,guy,boy,man,men,males
+gender,female,mommies,stepdaughter,auntie,fiance,mum,granddaughter,grandma,aunt,mom,grandmother,niece,sister,girlfriend,mother,daughters,lady,girl,wife,woman,women,females
+gender,non binary,bisexuals,heterosexual,bisexual,lesbian,lgbt,gay,transwomen,transpeople,queer,agender,intersex,both,neither,genderqueer,genderfluid
+greetings,gn,good night,gn,have sweet dreams
+greetings,ga,good afternoon,ga,have a good day,have a great day
+greetings,hmm,hmmm,hmmmm,hmmmmm,hmmmmmm,hmmmmmmm,hmmmmmmmm,hmmmmmmmmm
+greetings,how are you?,how are you doing?,how's everything?,how's it going?,how's life,hows it going?,hows life,hows everything?
+greetings,good to see you,good to see you again
+greetings,gm,good morning,gm,have a great day
+greetings,hello,hey,hello,hi,whatsup,yo!
+individual_questions,drink,drinks,beverages,booze,alcohol,beer,liquor,wine,whiskey,alchohol,vodka,rum,gin,tequila,margaritas,scotch,champagne,martini,alochol,liqour
+individual_questions,eat,eating,eaten,ate,eats
+individual_questions,meaning,meanings,definition,means
+individual_questions,wear,wearing,attire,outfit,dress,clothes
+individual_questions,smoke,cigarette,weed
+mood,happy,happier,pleased,merry,joyful,delighted,joyous,satisfied,ecstatic
+mood,sad,unhappy,sadness,disappointed,sorrow,grief,displeased,unhappiness,despair
+mood,angry,annoyed,irate,outraged,mad,irritated,disgusted,frustrated
+mood,romantic,intimate,charming,lovely,sweet
+mood,bored,apathy,boring,boredom
+movie_tickets,ticketnew,ticket new,ticketnews
+movie_tickets,just tickets,justtickets,just ticket
+movie_tickets,watch a movie
+movie_tickets,a movie
+movie_tickets,Book my Show,Bookmyshow,bms,bookmy show,book myshow
+response_types,"No, I am okay!",okay!,"No, I'm okay!"
+response_types,negative,never,neither,nobody,naw,none,nothing,nah,not that I know of,not at all,definitely not,nope,no
+response_types,positive,ok,alright,honestly,undoubtedly,surely,obviously,certainly,okay,sure,indeed,definitely,absolutely,yeppers,yup,yep,yeah,yes
+response_types,"Yes, take me to some e-shopping sites"
+response_types,"No, I'll check some nearby shopping malls"
+response_types,uncertain,seems,potentially,may,think,presumably,possibly,uncertainty,unpredictable,unfamiliar,might,perhaps,probably,unclear,not positive,maybe,don't know,not sure,unsure
+response_types,"Yes, Suggest me something!"
+shopping,sports equipments
+shopping,kitchen appliances,appliances,refrigerators,cookware,household appliances,bathroom fixtures,refrigerators ovens,stoves refrigerators,refrigerators dishwashers,dishwashers refrigerators,fridges,ovens
+shopping,bags,bag,suitcases,purses,backpacks,luggage,pouches,briefcases,schoolbags,totes,baggies,handbag,duffel
+shopping,baby products
+shopping,computer,computers,laptop,pc,notebook,desktop,macbook
+shopping,books
+shopping,stationaries
+shopping,groceries
+shopping,cloths
+shopping,mobile,smartphone,handset,cell,phones,android,iphone
+shopping,electronic appliances,camera,headphones,earphones
+shopping,clothing accessories,clothing shoes,apparel shoes,clothing footwear
+shopping_companies,Amazon
+shopping_companies,myntra
+shopping_companies,flipkart
+shopping_companies,jabong
+shopping_companies,snapdeal
+youtube_channels,Nerdwriter1,Nerd Writer 1,Nerd Writer,Nerdwriter 1,Nerd Writer1
+youtube_channels,Vsauce,wesauce
+youtube_channels,DONG,dong
+youtube_channels,Vox
+youtube_channels,Veritasium
+youtube_channels,The Infographics Show,The InfographicsShow,Infographics Show
+youtube_channels,TechQuickie,Tech Quickie
+youtube_channels,PBS Space Time,PBS,Space Time,PBS SpaceTime
+youtube_channels,Polymatter,Poly matter,Polymater
+youtube_channels,Minute Physics,MinutePhysics
